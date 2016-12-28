@@ -62,6 +62,11 @@ Please cite SSD in your publications if it helps your research:
   make test -j8
   # (Optional)
   make runtest -j8
+  
+  mkdir build
+  cd build
+  cmake ..
+  make all
   ```
 
 ### Preparation
